@@ -18,8 +18,8 @@
         "redis-dump": "./bin/cli/redis-dump"
     },
     "dependencies": {
-        "hiredis": ">=0.1.13",
-        "redis": ">=0.7.1",
+        "hiredis": "^0.4.1",
+        "redis": "^2.4.1",
         "async": ">=0.1.15",
         "optimist": ">=0.3.1"
     },
